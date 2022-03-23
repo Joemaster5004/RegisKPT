@@ -1,0 +1,4 @@
+.captcha-input {
+	background: #FFF url(../captchaImageSource.php) repeat-y left center;
+    padding-left: 85px;
+}
